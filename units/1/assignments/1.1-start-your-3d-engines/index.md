@@ -2,4 +2,9 @@
 [slides]: <>
 [template]: <>
 
-[lesson][]
+### Starting a project & essential Unity skills
+* Clone starter code from GitHub.
+* Navigate a scene in Unity.
+* Add assets to a scene in Unity.
+
+Review the [lesson videos][lesson] here.
