@@ -12,3 +12,7 @@
 * Add assets to a scene in Unity.
 
 Review the [lesson videos][lesson] here.
+
+### Notes
+
+The videos in this lesson introduce you to some of the components of the Unity user interface (UI) and demonstrates how to navigate the scene view. As you watch, pause the video and sketch or describe the panes of the screen and the keyboard and mouse commands used to navigate.
