@@ -4,7 +4,10 @@
 [prototype]: <https://github.com/SKHS-Create-With-Code/Prototype-1.git>
 
 ### Starting a project & essential Unity skills
-* Clone [SKHS-Create-With-Code/Prototype-1][prototype] starter code from GitHub.
+* Clone the starter code from GitHub.
+  - Click on the link to go to the [SKHS-Create-With-Code/Prototype-1][prototype] on GitHub.
+  - Copy the link.
+  - ```git clone https://github.com/SKHS-Create-With-Code/Prototype-1.git```
 * Navigate a scene in Unity.
 * Add assets to a scene in Unity.
 
