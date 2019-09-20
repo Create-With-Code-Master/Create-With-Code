@@ -11,7 +11,7 @@
 * Navigate a scene in Unity.
 * Add assets to a scene in Unity.
 
-Review the [lesson videos][lesson] here.
+Review the [lesson videos][lesson] here. It will take you about an hour to watch all of the videos for this lesson at normal (1x) speed.
 
 ### Notes
 
