@@ -6,5 +6,7 @@
 * Add a C# script to the player (vehicle).
 * Write comments to outline what the code does.
 * Make the vehicle move.
+* Add **RigidBody** component to create collisions.
+* Duplicate objects.
 
 [lesson][]
