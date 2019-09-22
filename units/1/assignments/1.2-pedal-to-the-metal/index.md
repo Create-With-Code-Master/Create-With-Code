@@ -9,4 +9,10 @@
 * Add **RigidBody** component to create collisions.
 * Duplicate objects.
 
+## Notes
+
+## Outcome
+
+## Submission
+
 [lesson][]
