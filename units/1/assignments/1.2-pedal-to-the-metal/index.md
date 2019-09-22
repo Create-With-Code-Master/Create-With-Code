@@ -2,4 +2,9 @@
 [slides]: <>
 [template]: <>
 
+## Tasks
+* Add a C# script to the player (vehicle).
+* Write comments to outline what the code does.
+* Make the vehicle move.
+
 [lesson][]
