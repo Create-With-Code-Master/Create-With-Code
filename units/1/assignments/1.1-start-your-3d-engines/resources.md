@@ -1,5 +1,5 @@
 ---
-template: tabbed-assignment
+layout: tabbed-assignment
 ---
 
 # Resources
